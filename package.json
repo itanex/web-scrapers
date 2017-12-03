@@ -1,0 +1,13 @@
+{
+  "name": "web-scrapers",
+  "author": "Bryan Wood",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.2.16"
+  }
+}
