@@ -4,6 +4,10 @@
 **/src/lib
 **/public/lib
 
+
 # Compile/Transpile Artifacts
 **/*.js
 **/*.js.map
+
+# Gulp file
+!gulpfile.js

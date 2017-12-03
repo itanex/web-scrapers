@@ -4,10 +4,16 @@
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
+  "scripts": {
+    "build": "./node_modules/.bin/gulp build"
+  },
   "dependencies": {
     "jquery": "^3.2.1"
   },
   "devDependencies": {
-    "@types/jquery": "^3.2.16"
+    "@types/jquery": "^3.2.16",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-rimraf": "^0.2.1"
   }
 }
